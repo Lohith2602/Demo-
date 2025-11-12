@@ -78,7 +78,7 @@
   object-fit: cover;
 }
 
-@media screen and (max-width: 600px ) and (min-width:300px) {
+@media screen and (max-width: 600px ) and (min-width:250px) {
   .cards_container{
     background-color: darkslategrey;
   }
@@ -87,3 +87,4 @@
   }
     
 }
+
